@@ -1,1 +1,1 @@
-# Implementing-blockchain-applications-for-sports-fans
+# Implementing Blockchain applications for sports Fans
